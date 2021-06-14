@@ -21,6 +21,7 @@ const InfoSection = ({
   id,
   imgStart,
   topLine,
+  topLine2,
   lightText,
   headline,
   darkText,
@@ -41,6 +42,7 @@ const InfoSection = ({
             <Column1>
               <TextWrapper>
                 <TopLine>{topLine}</TopLine>
+                <TopLine>{topLine2}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle darkText={darkText}>{description}</Subtitle>
                 <BtnWrap>

@@ -6,7 +6,8 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "Web Developer",
+  topLine: "Web Developer |",
+  topLine2: "May 2020- Present",
   headline: "iLearningEngines",
   description:
     "iLearningEngines is an Enterprise Intelligent Platform that drives learning automation and outcomes at scale by leveraging existing enterprise applications and proprietary AI.",

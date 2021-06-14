@@ -42,14 +42,11 @@ const Footer = () => {
               GK © {new Date().getFullYear()} All Rights Reserved.
             </WebsiteRights>
             <SocialIcons>
-              <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+              <SocialIconLink href="https://www.facebook.com/gopakumar.snair.9" target="_blank" aria-label="Facebook">
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Linkedin">
+              <SocialIconLink href="https://www.linkedin.com/in/gopakumar-s-nair-7000a7100/" target="_blank" aria-label="Linkedin">
                 <FaLinkedinIn />
-              </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Instagram">
-                <FaInstagram />
               </SocialIconLink>
             </SocialIcons>
           </SocialMediaWrap>
